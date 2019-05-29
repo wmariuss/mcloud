@@ -1,2 +1,2 @@
 # mcloud
-Nice and simple cloud resources view
+Nice and simple cloud resources management tool.
