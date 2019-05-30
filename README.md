@@ -1,2 +1,3 @@
 # mcloud
-Nice and simple cloud resources management tool.
+
+Simple cloud resources management tool.
