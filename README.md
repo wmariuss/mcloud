@@ -1,5 +1,7 @@
 # mcloud
 
+[![License](https://img.shields.io/github/license/wmariuss/mcloud)](https://github.com/wmariuss/mcloud/blob/master/LICENSE)
+
 Simple cloud resources management tool.
 
 ## Requirements
